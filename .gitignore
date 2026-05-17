@@ -1,0 +1,8 @@
+data/
+model_artifact/
+mlflow.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+lost+found/
+.Trash-*/
